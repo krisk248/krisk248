@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Kannan;Security+Researcher+%7C+Bug+Hunter+%F0%9F%90%9B;Red+Team+Operator+%F0%9F%94%B4;Penetration+Tester+%F0%9F%94%90;Always+Learning+%7C+Always+Hacking+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Kannan;DevSecOps+Engineer+%F0%9F%94%90;Bug+Bounty+Hunter+%F0%9F%90%9B;Hardware+Hacker+%F0%9F%94%A7;3D+Printing+Enthusiast+%F0%9F%96%A8;PCB+Designer+%E2%9A%A1;Drone+Builder+%F0%9F%9A%81;Always+Learning+%7C+Multi-Disciplinary+%F0%9F%92%BB;Computers+Are+My+World+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,25 +13,60 @@
 ### 🚀 About Me
 
 ```python
-class SecurityResearcher:
+class VersatileTechEnthusiast:
     def __init__(self):
         self.name = "Kannan"
-        self.role = "Security Researcher & Bug Hunter"
+        self.role = "Multi-Disciplinary Tech Enthusiast"
         self.location = "Earth 🌍"
-        self.expertise = ["Penetration Testing", "Red Teaming", "Bug Bounty"]
-        self.currently_learning = ["Advanced Exploitation", "Cloud Security"]
-        self.fun_fact = "I debug production in my sleep 😴"
+
+        # My diverse skillset
+        self.interests = {
+            "security": ["Bug Bounty Hunting", "Penetration Testing", "Security Research"],
+            "devops": ["DevSecOps", "CI/CD", "Cloud Infrastructure", "Container Orchestration"],
+            "hardware": ["3D Printing", "PCB Design", "Drone Building", "Hardware Hacking"],
+            "software": ["Full Stack Development", "Automation", "System Architecture"]
+        }
+
+        self.current_projects = [
+            "🔐 Hunting bugs and securing applications",
+            "🏗️ Building DevSecOps pipelines",
+            "🖨️ Designing and printing custom 3D models",
+            "⚡ Creating custom PCB designs",
+            "🚁 Building and programming drones",
+            "💻 Automating everything I can"
+        ]
+
+        self.philosophy = "Jack of all trades, master of some. Always learning, always building."
+        self.motto = "If it runs on electricity, I can hack it. If it doesn't, I can build it."
+
+    def get_expertise_level(self, domain):
+        levels = {
+            "Security": "●●●●●○",
+            "DevSecOps": "●●●●●○",
+            "Hardware": "●●●●○○",
+            "3D_Printing": "●●●●○○",
+            "Development": "●●●●●○",
+            "PCB_Design": "●●●○○○",
+            "Drones": "●●●●○○"
+        }
+        return levels.get(domain, "Learning...")
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something awesome!")
+        return """
+        🎯 Building the future, one commit at a time
+        🔧 Breaking things to understand how they work
+        💡 Creating solutions that didn't exist yesterday
+        🌟 Living at the intersection of hardware and software
+        """
 
-me = SecurityResearcher()
-me.say_hi()
+me = VersatileTechEnthusiast()
+print(me.say_hi())
+print(f"\n💪 Computers are my world. Let's build something amazing together!")
 ```
 
 ---
 
-### 🛡️ Security Arsenal
+### 🛡️ Security & DevSecOps Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -39,23 +74,43 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
 </p>
 
-### 💻 Tech Stack
+### 🔧 Hardware & Making Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=3d-printing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion_360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drones-0099CC?style=for-the-badge&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soldering-FFA500?style=for-the-badge&logo=soldering&logoColor=white" />
+</p>
+
+### 💻 Development Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
@@ -90,30 +145,82 @@ me.say_hi()
 
 ---
 
-### 🐍 Contribution Snake
+### 💼 What I'm Currently Building
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krisk248/krisk248/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+```yaml
+security_research:
+  - 🔐 Bug bounty hunting on major platforms
+  - 🌐 Web application penetration testing
+  - 🛡️ Security automation tools
+
+devsecops_projects:
+  - ☁️ Building secure CI/CD pipelines with Jenkins & GitLab
+  - 🐳 Container security with Kubernetes & Docker
+  - 🔧 Infrastructure as Code with Terraform & Ansible
+  - 📊 Security monitoring & compliance automation
+
+hardware_adventures:
+  - 🖨️ Custom 3D printed mechanical parts and enclosures
+  - ⚡ PCB design for IoT security testing devices
+  - 🚁 Building autonomous drones with custom flight controllers
+  - 🔩 Hardware hacking and reverse engineering projects
+
+software_development:
+  - 💻 Full-stack applications with React & FastAPI
+  - 🤖 Automation scripts for everything
+  - 🔗 API integrations and microservices architecture
+
+learning_journey:
+  - 📚 Advanced exploit development techniques
+  - 🎓 Cloud-native security architectures
+  - 🔬 Embedded systems programming
+  - 🌟 AI/ML for security automation
+```
 
 ---
 
-### 💼 What I'm Working On
+### 🎯 My Expertise Domains
 
-```yaml
-current_focus:
-  - 🔐 Advanced penetration testing techniques
-  - 🌐 Web application security assessments
-  - ☁️ Cloud security research
-  - 🤖 Automation tools for bug hunting
-  - 📚 Contributing to open-source security projects
+<table>
+<tr>
+<td valign="top" width="33%">
 
-goals_2024:
-  - Achieve top 100 on HackerOne
-  - Publish security research papers
-  - Build advanced security automation tools
-  - Contribute to major open-source security projects
-```
+#### 🔒 Security
+- Penetration Testing
+- Bug Bounty Hunting
+- Security Research
+- Vulnerability Assessment
+- OWASP Top 10
+- Network Security
+- Application Security
+
+</td>
+<td valign="top" width="33%">
+
+#### ⚙️ DevSecOps
+- CI/CD Pipelines
+- Kubernetes & Docker
+- Jenkins & GitLab CI
+- Infrastructure as Code
+- Security Automation
+- Cloud Security (AWS)
+- Monitoring & Logging
+
+</td>
+<td valign="top" width="33%">
+
+#### 🔧 Hardware
+- 3D Printing & CAD
+- PCB Design (KiCad)
+- Drone Building
+- Arduino & ESP32
+- Raspberry Pi Projects
+- Hardware Hacking
+- Soldering & Assembly
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,22 +232,7 @@ goals_2024:
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hackerone.com/your-profile"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
   <a href="https://bugcrowd.com/your-profile"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-</p>
-
----
-
-### 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://www.thingiverse.com/your-profile"><img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white"/></a>
 </p>
 
 ---
@@ -151,6 +243,8 @@ goals_2024:
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 💡 "The best way to predict the future is to build it" 💡
+
+### Show some ❤️ by starring repositories if you find them useful!
 
 </div>
