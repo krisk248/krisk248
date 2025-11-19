@@ -24,7 +24,7 @@ class VersatileTechEnthusiast:
             "security": ["Bug Bounty Hunting", "Penetration Testing", "Security Research"],
             "devops": ["DevSecOps", "CI/CD", "Cloud Infrastructure", "Container Orchestration"],
             "hardware": ["3D Printing", "PCB Design", "Drone Building", "Hardware Hacking"],
-            "software": ["Full Stack Development", "Automation", "System Architecture"]
+            "software": ["Full Stack Deployment", "Automation", "System Architecture"]
         }
 
         self.current_projects = [
@@ -227,12 +227,12 @@ learning_journey:
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hackerone.com/your-profile"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
   <a href="https://bugcrowd.com/your-profile"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-  <a href="https://www.thingiverse.com/your-profile"><img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white"/></a>
+  <a href="https://www.thingiverse.com/your-profile"><img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white"/></a> -->
 </p>
 
 ---
