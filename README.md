@@ -2,7 +2,7 @@
 kannan@github
 --------------
 role        DevSecOps Engineer
-location    Dubai, UAE → targeting Netherlands 🇳🇱
+location    Dubai, UAE → targeting Netherlands 🇳🇱 Germany 🇩🇪
 focus       infrastructure automation, security tooling, legacy modernisation
 languages   Go · Python · Bash · Rust · Java · TypeScript
 infra       Docker · K3s · Ansible · Forgejo · Proxmox · Traefik
