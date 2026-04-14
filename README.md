@@ -2,7 +2,7 @@
 kannan@github
 --------------
 role        DevSecOps Engineer
-location    Dubai, UAE → targeting Netherlands 🇳🇱 Germany 🇩🇪
+location    Dubai, Netherlands 🇳🇱 Germany 🇩🇪
 focus       infrastructure automation, security tooling, legacy modernisation
 languages   Go · Python · Bash · Rust · Java · TypeScript
 infra       Docker · K3s · Ansible · Forgejo · Proxmox · Traefik
@@ -25,4 +25,4 @@ hobbies     drones · PCB design · 3D printing
 
 *I enjoy taking on messy, undefined problems — building structure where there isn't any, and learning something new every time. Currently exploring Kubernetes, Terraform, and the Dutch tech scene.*
 
-**[LinkedIn](https://linkedin.com/in/kannan842)** · **[Portfolio](https://knn.net.in)** · **[Email](mailto:your.email@example.com)**
+**[LinkedIn](https://linkedin.com/in/kannan842)** · **[Portfolio](https://kannan.sh)** · **[Email](mailto:kriskannan353@gmail.com)**
