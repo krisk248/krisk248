@@ -25,4 +25,4 @@ hobbies     drones · PCB design · 3D printing
 
 *I enjoy taking on messy, undefined problems — building structure where there isn't any, and learning something new every time. Currently exploring Kubernetes, Terraform, and the Dutch tech scene.*
 
-**[LinkedIn](https://linkedin.com/in/kannan842)** · **[Portfolio](https://kannan.sh)** · **[Email](mailto:kriskannan353@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/kannan842)** · **[Portfolio](https://kannan.sh)** · **[Email](mailto:kriskannan353@gmail.com)** · **[Projects](https://git.linhex.com)**
