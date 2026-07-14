@@ -1,7 +1,7 @@
 ```
 kannan@github
 --------------
-role        DevSecOps Engineer
+role        Platform Engineer
 location    Dubai, Netherlands 🇳🇱 Germany 🇩🇪
 focus       infrastructure automation, security tooling, legacy modernisation
 languages   Go · Python · Bash · Rust · Java · TypeScript
